@@ -1,0 +1,9 @@
+This is a library for agavi to handle mobile devices especially Japanese Ktai devices.
+
+Install
+====
+(1) Install
+(2) Put lib dir on your project/libs
+(3) Include our config.php in your project/config.php
+(4) Setup your autoload.xml to xinclude our autoload.xml
+(5) Then you can use our filter, routing callbacks and etc.
